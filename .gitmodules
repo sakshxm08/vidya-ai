@@ -1,0 +1,12 @@
+[submodule "vidya-ai-frontend"]
+	path = vidya-ai-frontend
+	url = https://github.com/sakshxm08/vidya-ai-frontend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/sakshxm08/vidya-ai-frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/sakshxm08/vidya-ai-backend.git
+[submodule "ai"]
+	path = ai
+	url = https://github.com/rajatsharda23/VidyaAI.git
