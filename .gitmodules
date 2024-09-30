@@ -1,6 +1,3 @@
-[submodule "vidya-ai-frontend"]
-	path = vidya-ai-frontend
-	url = https://github.com/sakshxm08/vidya-ai-frontend.git
 [submodule "frontend"]
 	path = frontend
 	url = https://github.com/sakshxm08/vidya-ai-frontend.git
